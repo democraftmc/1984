@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /login
 Allow: /register
-Disallow: /
